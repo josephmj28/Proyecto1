@@ -1,2 +1,3 @@
 ﻿# Proyecto1
- Primer poryecto con HTML y CSS puro
+ Primer proyecto con HTML y CSS puro
+
